@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports led]
+set_property IOSTANDARD LVCMOS33 [get_ports sys_clk]
+set_property IOSTANDARD LVCMOS33 [get_ports sys_swtich]
+set_property IOSTANDARD LVCMOS33 [get_ports feed_btn]
+set_property PACKAGE_PIN K17 [get_ports sys_clk]
+set_property PACKAGE_PIN M14 [get_ports led]
+set_property PACKAGE_PIN T16 [get_ports sys_swtich]
+set_property PACKAGE_PIN K19 [get_ports feed_btn]

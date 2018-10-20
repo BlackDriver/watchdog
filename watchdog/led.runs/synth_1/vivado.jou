@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Thu Oct 18 16:43:56 2018
+# Process ID: 16724
+# Current directory: C:/Users/WANGHONGYI/Desktop/zynq/led/led.runs/synth_1
+# Command line: vivado.exe -log WatchDog.vds -mode batch -messageDb vivado.pb -notrace -source WatchDog.tcl
+# Log file: C:/Users/WANGHONGYI/Desktop/zynq/led/led.runs/synth_1/WatchDog.vds
+# Journal file: C:/Users/WANGHONGYI/Desktop/zynq/led/led.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source WatchDog.tcl -notrace
